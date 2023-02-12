@@ -1,0 +1,12 @@
+package corejava;
+
+public class Overriding3 extends Overriding2 {
+
+	public void hello()
+	{
+		System.out.println("From 3");
+
+	}
+	}
+
+}

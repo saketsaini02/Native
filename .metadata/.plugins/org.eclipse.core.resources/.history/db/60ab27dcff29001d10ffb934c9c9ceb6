@@ -1,0 +1,33 @@
+/**
+ * 
+ */
+package corejava;
+
+/**
+ * @author kavit
+ *
+ */
+public class Prime {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int inputNumber=10;
+		
+		for(int i=2;i<inputNumber/2;i++)
+		{
+			if(inputNumber/2%i==0)
+			{
+				System.out.println(inputNumber+" is Prime");
+				break;
+			}
+			else
+				System.out.println(inputNumber+" is not Prime");
+			    break;
+ 		}
+
+	}
+
+}

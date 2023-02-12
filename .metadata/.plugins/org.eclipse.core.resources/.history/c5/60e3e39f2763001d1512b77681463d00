@@ -1,0 +1,14 @@
+package corejava;
+
+public class Overriding {
+
+	public static void main(String[] args) {
+		
+		Overriding1 over2 =new Overriding2();
+		over2.hello();
+		
+				
+
+	}
+
+}

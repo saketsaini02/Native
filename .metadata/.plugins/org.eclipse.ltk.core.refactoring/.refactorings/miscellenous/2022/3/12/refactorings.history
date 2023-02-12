@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;miscellenous/javascript-cypress/test.js&apos; to &apos;hello.js&apos;" description="Rename resource &apos;test.js&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="javascript-cypress/test.js" name="hello.js" stamp="1647229013368" updateReferences="true"/>
+</session>

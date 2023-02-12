@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<watchExpressions>\r\n    <expression enabled\="true" text\="obj.toString()"/>\r\n    <expression enabled\="true" text\="s"/>\r\n    <expression enabled\="true" text\="reverse"/>\r\n    <expression enabled\="true" text\="reverse\=\=input"/>\r\n    <expression enabled\="true" text\="input"/>\r\n    <expression enabled\="true" text\="reverse.contentEquals(input)"/>\r\n    <expression enabled\="true" text\="reverse"/>\r\n</watchExpressions>\r\n

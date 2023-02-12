@@ -1,0 +1,40 @@
+1.String.valueOf(j) - Converts a given int, boolean,char etc values to String// Multiple overloaded methods are present
+                    under String class.
+ Few methods for String class:                   
+ append (), insert (), replace (), delete (), reverse (), capacity (), length (), deleteCharAt ()
+
+if(reverse.contentEquals(input)) 
+boolean java.lang.String.contentEquals(CharSequence cs)--Compares this string to the specified CharSequence
+
+if(reverse.equalsIgnoreCase(input))
+boolean java.lang.String.equalsIgnoreCase(String anotherString) -- Compares this String to another String,
+ignoring case considerations.
+
+if(reverse.equals(input))
+boolean java.lang.String.equals(Object anObject)
+Compares this string to the specified object. The result is true if and only if the argument is not null
+and is a String object that represents the same sequence of characters as this object. 
+
+Overrides: equals(...) in Object
+
+
+
+
+
+
+ 
+2.Using Scanner class
+
+Scanner sc=new Scanner(System.in);
+sc.nextInt() //FOr Integer
+sc.nextDouble()  //For Double
+
+*************sc.next() //For String*************
+
+
+
+
+
+3.
+ 
+ 
